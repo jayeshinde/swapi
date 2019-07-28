@@ -1,4 +1,4 @@
-# SWAPO
+# SWAPI
 Star War API
 
 ## Start a Local Server:
